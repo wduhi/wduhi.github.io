@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://wduhi.csgad.com/KbL/sitemap.xml.gz
